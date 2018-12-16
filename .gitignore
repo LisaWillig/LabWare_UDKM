@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Dont synchronize Hardware Specifications
+
+Femtomag_MOKE\modules\Meilhaus\*
+Femtomag_MOKE\modules\NewportMirrorMounts\NewportSoftware\*
+Femtomag_MOKE\Calibration_PowerWaveplate\Calibration
+Femtomag_MOKE\Calibration_PowerWaveplate\OldCalibrations
+Femtomag_MOKE\Calibration_MagneticField\Calibration
+Femtomag_MOKE\Calibration_MagneticField\OldCalibrations
+
