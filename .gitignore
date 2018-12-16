@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Dont synchronize Hardware Specifications
+
+modules\Meilhaus\*
+modules\NewportMirrorMounts\NewportSoftware\*
+Calibration_PowerWaveplate\Calibration
+Calibration_PowerWaveplate\OldCalibrations
+Calibration_MagneticField\Calibration
+Calibration_MagneticField\OldCalibrations
+PXS_Frog\*
+
