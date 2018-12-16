@@ -105,11 +105,23 @@ venv.bak/
 
 # Dont synchronize Hardware Specifications
 
-modules\Meilhaus\*
-modules\NewportMirrorMounts\NewportSoftware\*
-Calibration_PowerWaveplate\Calibration
-Calibration_PowerWaveplate\OldCalibrations
-Calibration_MagneticField\Calibration
-Calibration_MagneticField\OldCalibrations
-PXS_Frog\*
+modules/Meilhaus/*
+modules/NewportMirrorMounts/NewportSoftware/
+Calibration_PowerWaveplate/Calibration/
+Calibration_PowerWaveplate/OldCalibrations/
+Calibration_MagneticField/Calibration/
+Calibration_MagneticField/OldCalibrations/
+PXS_Frog/*
 
+
+modules/NewportMirrorMounts/NewportSoftware/
+
+*.png
+
+Calibration_PowerWaveplate/OldCalibrations/20181209_053111/
+
+Calibration_PowerWaveplate/OldCalibrations/20181209_052346/
+
+Calibration_PowerWaveplate/OldCalibrations/20181209_030522/
+
+Calibration_MagneticField/OldCalibrations/20181001_170153/
