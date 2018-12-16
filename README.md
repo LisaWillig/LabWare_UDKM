@@ -41,3 +41,4 @@ The beamstabilization is used for continuous monitoring of laser movement during
 
 ![PumpProbe Spectroscopy](/images/PumpProbeFrog_Screenshot.png)
 
+![Beamstabilization](/images/Beamstabilization_Screenshot.png)
