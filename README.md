@@ -1,5 +1,5 @@
 # LabWare_UDKM
-Labratory Framework for several Experiments and Hardware Devices used in the research group [Ultrafast Dynamics of Condensed Matter](http://www.udkm.physik.uni-potsdam.de/).
+Labratory Framework for several Experiments and Hardware Devices used in the research group [Ultrafast Dynamics of Condensed Matter](http://www.udkm.physik.uni-potsdam.de/) at the University of Potsdam.
 
 ## Status 
 
